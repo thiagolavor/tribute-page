@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main{
+    background-color: #eeeeee;
+    width: 100vw;
+    height: 100vh;
+}
+
+#title{
+    background-color: #fff;
+    width: 90vw;
+    height: 50vh;
+    text-align: center;
+    align-items: center;
+}
+
